@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Scala and Data Eng
-- 👯 I’m looking to collaborate on Python Projects for Web or Data ETL
+- 🌱 I’m currently learning Scala and Data Enginnering!
+- 👯 I’m looking to collaborate on Open Source Python Projects for Web or Data ETL
 <!--
 **V-Tomanik/V-Tomanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
